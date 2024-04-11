@@ -1,0 +1,7 @@
+com\zoho\StudentsManagements\StudentsManagementsApplication.class
+com\zoho\StudentsManagements\Controller\StudentController.class
+com\zoho\StudentsManagements\Model\StudentLogin.class
+com\zoho\StudentsManagements\Repository\StudentRepository.class
+com\zoho\StudentsManagements\Service\StudentServiceImp.class
+com\zoho\StudentsManagements\Repository\StudentRepoImp.class
+com\zoho\StudentsManagements\Service\StudentService.class
